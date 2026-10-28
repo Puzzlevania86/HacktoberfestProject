@@ -1,6 +1,3 @@
-API_KEY = "0cfd16273a174c60b80a4dcd9c8b4179"
-
-
 import requests
 import folium
 import webbrowser
